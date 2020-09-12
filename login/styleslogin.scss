@@ -121,6 +121,9 @@ body {
     letter-spacing: 1px;
     margin: 10px 0px;
     outline: none;
+    a {
+        @extend .text_underline
+    }
 }
 .footer {
     display: flex;
