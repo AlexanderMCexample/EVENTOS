@@ -127,7 +127,6 @@ body {
   margin: 10px 0px;
   outline: none;
 }
-
 .footer {
   display: flex;
   align-items: center;
@@ -208,11 +207,11 @@ body {
     justify-content: center;
   }
 }
-.text_underline, .login__container--remember-me a, .login__container--register a, .footer a, .register__container--inicio-sesion {
+.text_underline, .login__container--remember-me a, .login__container--register a, .button a, .footer a, .register__container--inicio-sesion {
   color: white;
   text-decoration: none;
 }
-.text_underline:hover, .login__container--remember-me a:hover, .login__container--register a:hover, .footer a:hover, .register__container--inicio-sesion:hover {
+.text_underline:hover, .login__container--remember-me a:hover, .login__container--register a:hover, .button a:hover, .footer a:hover, .register__container--inicio-sesion:hover {
   text-decoration: underline;
 }
 
